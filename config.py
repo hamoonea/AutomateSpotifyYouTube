@@ -1,2 +1,2 @@
-token = 'BQB_NP48c-A7a3WsfjObTVoh00dAORy3OUJDaub3FDey_j5UjPfVqW2_fURdbb38XAqsgQYfOOkXpJ3IUEWIRO10DZ9PxIi0an8amD3oOk1Rduvgx8ySkksxMVwRk4uEEBXfAQXPIn1xcZf16i-n2jNQwpm5FQ1Zhb1sA5rgVp99C9Ox-RTg7xcwbssrV5_Kpz6HUyEG-PvQJTLo0xY1A3I0EcluZ1C6xo5Vxdr9bffkNYl4f4w89wF725Z8SBd6u6VrkPNhLoFuGpCFliehlwd-he9kDZ3C'
-user_id = '2257g6gcqz6bugmke57gt373a'
+token = 'SPOTIFY_TOKEN_ID'
+user_id = 'SPOTIFY_USER_ID'
